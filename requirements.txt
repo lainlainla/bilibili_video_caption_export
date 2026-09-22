@@ -1,0 +1,7 @@
+faster-whisper==1.2.1
+yt-dlp[default]>=2026.8.19
+pysubs2==1.9.0
+Flask>=3.1,<4
+requests>=2.32,<3
+psutil>=5.9,<8
+av>=13,<19

@@ -1,0 +1,12 @@
+{
+  "backend": "local",
+  "model": "small",
+  "device": "auto",
+  "model_root": "models",
+  "output_dir": "output",
+  "language": "auto",
+  "api_base_url": "",
+  "api_model": "",
+  "api_key": "",
+  "api_chunk_seconds": 600
+}

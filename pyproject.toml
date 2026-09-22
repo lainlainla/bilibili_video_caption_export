@@ -1,0 +1,19 @@
+[project]
+name = "v2t-local"
+version = "0.2.0"
+description = "Local Chinese and English video transcription with optional compatible APIs"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+license = "MIT"
+dependencies = [
+    "faster-whisper==1.2.1",
+    "yt-dlp[default]>=2026.8.19",
+    "pysubs2==1.9.0",
+    "Flask>=3.1,<4",
+    "requests>=2.32,<3",
+    "psutil>=5.9,<8",
+    "av>=13,<19",
+]
+
+[tool.uv]
+package = false
