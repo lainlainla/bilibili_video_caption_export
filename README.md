@@ -21,6 +21,7 @@
 | Linux glibc 2.28+，x86_64 / aarch64 | `bash install.sh` | `bash start.sh` |
 
 无需预装 Python。首次安装需联网，只安装运行环境和依赖，不下载 Whisper 权重。安装完成自动打开 [本地网页](http://127.0.0.1:7860)。保持服务终端打开，按 `Ctrl+C` 关闭服务。
+再次打开点击 `start.bat` 即可。
 
 ## 使用
 
